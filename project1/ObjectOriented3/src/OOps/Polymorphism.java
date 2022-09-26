@@ -6,8 +6,8 @@ class Polymorphism {
 	{
 		
 
-         System.out.println(Helper.Multiply(2, 4));
-         System.out.println(Helper.Multiply(5.5, 6.3));
+        System.out.println(Helper.Multiply(2, 4));
+        System.out.println(Helper.Multiply(5.5, 6.3));
 
 	}
 
