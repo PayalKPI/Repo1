@@ -1,9 +1,9 @@
 package OOps;
-
+//concrete class teacher 
 public class Teacher extends School {
 
 	@Override
-	int numbers() {
+	int salary() {
 		// TODO Auto-generated method stub
 		return 20;
 	}
