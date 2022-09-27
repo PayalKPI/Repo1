@@ -1,6 +1,6 @@
 package OOps;
 
-public class Bus extends Vehicle {
+public class Bus extends Car {
 
 	@Override
 	int mileage() {
